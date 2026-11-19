@@ -9,7 +9,7 @@
                 "version": 9999,
                 "force": 0,
                 "idx": 0,
-                "url": "http://192.168.1.52/download_ecos.bin",
+                "url": "https://raw.githubusercontent.com/liujinhe1982/shoof/refs/heads/main/SH50_V9999.bin",
                 "info": "update new sw"
             }
         ],
@@ -18,7 +18,7 @@
                 "version": 9999,
                 "force": 0,
                 "idx": 0,
-                "url": "http://192.168.1.52/channellist.bin",
+                "url": "https://raw.githubusercontent.com/liujinhe1982/shoof/refs/heads/main/SH50_V9999_channellist.bin",
                 "info": "update new channel list"
             }
         ],
@@ -27,7 +27,7 @@
                 "version": 9999,
                 "force": 0,
                 "idx": 0,
-                "url": "",
+                "url": "https://raw.githubusercontent.com/liujinhe1982/shoof/refs/heads/main/SH50_V9999_emu.bin",
                 "info": "update new emu"
             }
         ]
@@ -42,14 +42,14 @@
                 "version": 9999,
                 "force": 0,
                 "idx": 1,
-                "url": "http://192.168.1.52/taurus_redfly_usall.bin",
+                "url": "https://raw.githubusercontent.com/liujinhe1982/shoof/refs/heads/main/SH50_V9999.bin",
                 "info": "update new sw"
             },
             {
                 "version": 9990,
                 "force": 1,
                 "idx": 0,
-                "url": "http://192.168.1.52/SHOOF_TGHC140_SH50_BJJ_1_RMB1_V9990_F.bin",
+                "url": "https://raw.githubusercontent.com/liujinhe1982/shoof/refs/heads/main/SH50_V9990.bin",
                 "info": "error update special sw",
                 "box_version": [
                     {
@@ -64,7 +64,7 @@
                 "version": 9999,
                 "force": 0,
                 "idx": 0,
-                "url": "",
+                "url": "https://raw.githubusercontent.com/liujinhe1982/shoof/refs/heads/main/SH50_V9999_channellist.bin",
                 "info": "update new channel list"
             }
         ],
@@ -73,7 +73,7 @@
                 "version": 9999,
                 "force": 0,
                 "idx": 0,
-                "url": "",
+                "url": "https://raw.githubusercontent.com/liujinhe1982/shoof/refs/heads/main/SH50_V9999_emu.bin",
                 "info": "update new emu"
             }
         ]
