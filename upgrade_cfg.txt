@@ -1,0 +1,81 @@
+[
+    {
+        "vendor": "shoof",
+        "model": "SH50",
+        "sub_model": "BJJ",
+        "sub_id": 1,
+        "sw": [
+            {
+                "version": 9999,
+                "force": 0,
+                "idx": 0,
+                "url": "http://192.168.1.52/download_ecos.bin",
+                "info": "update new sw"
+            }
+        ],
+        "db": [
+            {
+                "version": 9999,
+                "force": 0,
+                "idx": 0,
+                "url": "http://192.168.1.52/channellist.bin",
+                "info": "update new channel list"
+            }
+        ],
+        "emu": [
+            {
+                "version": 9999,
+                "force": 0,
+                "idx": 0,
+                "url": "",
+                "info": "update new emu"
+            }
+        ]
+    },
+    {
+        "vendor": "shoof",
+        "model": "SH50",
+        "sub_model": "BJJ",
+        "sub_id": 2,
+        "sw": [
+            {
+                "version": 9999,
+                "force": 0,
+                "idx": 1,
+                "url": "http://192.168.1.52/taurus_redfly_usall.bin",
+                "info": "update new sw"
+            },
+            {
+                "version": 9990,
+                "force": 1,
+                "idx": 0,
+                "url": "http://192.168.1.52/SHOOF_TGHC140_SH50_BJJ_1_RMB1_V9990_F.bin",
+                "info": "error update special sw",
+                "box_version": [
+                    {
+                        "start": 9992,
+                        "end": 9998
+                    }
+                ]
+            }
+        ],
+        "db": [
+            {
+                "version": 9999,
+                "force": 0,
+                "idx": 0,
+                "url": "",
+                "info": "update new channel list"
+            }
+        ],
+        "emu": [
+            {
+                "version": 9999,
+                "force": 0,
+                "idx": 0,
+                "url": "",
+                "info": "update new emu"
+            }
+        ]
+    }
+]
